@@ -25,4 +25,4 @@
 3. http://www.youtube.com/watch?v=zS9g2NZ7Q6s&list=PLlk6xtbRU2nCRtNLzci6OW9OjXMoe2-S_
 
 ### Домашние задания
-Будут позже :(
+См. папку homeworks
