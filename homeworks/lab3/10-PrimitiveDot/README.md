@@ -4,17 +4,17 @@
 Вычислять расстояние (distance()) между двумя точками пространства одинаковой размерности
 Вычислять точку (middle()) — середину отрезка между двумя точками пространства одинаковой размерности
 При попытке работы с такими же точками пространства, но разной размерности порождать исключение ValueError
-Input:
-   for A,B in (mod.Dot(1,2,3),mod.Dot(3,4,5)), (mod.Dot(1,2),mod.Dot(3)):
-     print A
-     try:
-       print "{:.3f}".format(A.distance(B))
-       print A.middle(B)
-     except ValueError:
-       print "ERROR"
-Output:
- 1,2,3
- 3.464
- 2.0,3.0,4.0
- 1,2
- ERROR
+##Input:
+   for A,B in (mod.Dot(1,2,3),mod.Dot(3,4,5)), (mod.Dot(1,2),mod.Dot(3)):  
+     print A  
+     try:  
+       print "{:.3f}".format(A.distance(B))  
+       print A.middle(B)  
+     except ValueError:  
+       print "ERROR"  
+##Output:
+ 1,2,3  
+ 3.464  
+ 2.0,3.0,4.0  
+ 1,2  
+ ERROR  
