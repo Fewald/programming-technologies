@@ -5,6 +5,7 @@
 Вычислять точку (middle()) — середину отрезка между двумя точками пространства одинаковой размерности
 При попытке работы с такими же точками пространства, но разной размерности порождать исключение ValueError
 ##Input:
+```Python
    for A,B in (mod.Dot(1,2,3),mod.Dot(3,4,5)), (mod.Dot(1,2),mod.Dot(3)):  
      print A  
      try:  
@@ -12,6 +13,7 @@
        print A.middle(B)  
      except ValueError:  
        print "ERROR"  
+```
 ##Output:
  1,2,3  
  3.464  
