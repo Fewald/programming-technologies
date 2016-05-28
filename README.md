@@ -1,6 +1,8 @@
 # Технологии программирования
 ## Организационные моменты
-* вопросы по курсу https://docs.google.com/document/d/14vRovI0z8oDUzNAV8tS5FE6FShD8Qq7ObAmG72T4arY/edit?usp=sharing
+* вопросы по курсу https://docs.google.com/document/d/14vRovI0z8oDUzNAV8tS5FE6FShD8Qq7ObAmG72T4arY/edit?usp=sharing 
+* кондуит https://docs.google.com/spreadsheets/d/1hpXOqgmP6tdE-Xzwl80Usw9PEsEFdWG33XiCwBGsTHs/edit?usp=sharing 
+
 ### Лабораторные работы
 * 30.04 8:50 - 15:30
 * 14.05 8:50 - 15:30
