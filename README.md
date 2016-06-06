@@ -35,6 +35,7 @@
 
 ### Видеолекции (каналы)
 1. задорные, но чуть сумбурные лекции от разработчицы PyCharm http://www.youtube.com/watch?v=xhoX3-NdM9k&list=PLi6h7nTANKP8-xJhyUcEKysGs_91syMIS
-2. тоже задорные, тоже чуть сумбурные. меньше по охвату тем, больше по глубине. по ним читался курс. http://www.youtube.com/watch?v=PSDkrNjOUus&list=PL6BE6JADr7eJ0NF_h4U8yD_di8LKMIb54
+2. тоже задорные, тоже чуть сумбурные. меньше по охвату тем, больше по глубине. по ним читался курс. http://uneex.ru/LecturesCMC/PythonIntro2014/
 3. довольно хороший и самый свежий в подборке курс от CSC https://compscicenter.ru/courses/python/2015-autumn/
+4. прикладные аспекты http://uneex.ru/LecturesCMC/PythonDevelopment2015
 
